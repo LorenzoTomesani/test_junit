@@ -1,3 +1,3 @@
 package test_junit;
 
-public class Prova {c;}
+public class Prova {dddd}
